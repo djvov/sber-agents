@@ -56,7 +56,7 @@ nano .env
 
 Вставьте ваш API ключ:
 ```bash
-OPENROUTER_API_KEY=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
+OPENROUTER_API_KEY=sk-or-v1-....
 OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
 MODEL_NAME=openai/gpt-oss-20b:free
 ```
