@@ -1,0 +1,8 @@
+aiogram
+openai
+python-dotenv
+pydantic
+ollama
+aiohttp
+
+
