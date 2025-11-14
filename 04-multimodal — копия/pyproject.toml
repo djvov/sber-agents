@@ -1,0 +1,17 @@
+[project]
+name = "03-aidd"
+version = "0.1.0"
+description = "Minimal Telegram LLM assistant"
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram",
+    "aiohttp._websocket",
+    "openai",
+    "python-dotenv",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
